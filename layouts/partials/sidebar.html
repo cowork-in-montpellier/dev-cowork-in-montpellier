@@ -1,3 +1,4 @@
+<link href="https://fonts.googleapis.com/css?family=Pangolin" rel="stylesheet">
 <div class="sidebar sidebar-{{ .Site.Params.sidebarColor}}">
     <div class="navigation">	
         <h1 class="site-title"><a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></h1>
@@ -15,7 +16,7 @@
             {{ with .Site.Menus.shortcuts }}
             <ul id="shortcuts">
                 {{ range sort . "Weight" }}
-                <li>
+                <li id="leli">
                     <a href="{{.URL}}" target="_blank" rel="noopener">{{safeHTML .Name}}</a>
                 </li>
                 {{ end }}
