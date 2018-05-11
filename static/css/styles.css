@@ -25,7 +25,7 @@
 
 @media (min-width: 48em) {
   .content {
-    margin-left: 21rem;
+    margin-left: 2rem;
     margin-right: 2rem;
   }
 }
@@ -40,10 +40,10 @@
 	text-align: center;
 }
 
-/* Sideba {r */
+/* Sidebar */
 .sidebar {
 	grid-area: sidebar;
-  overflow: auto;
+  /*overflow: auto;*/
   text-align: center;
   padding: 1rem 1rem;
   color: white;
@@ -110,11 +110,12 @@
 }
 
 .sidebar ul li {
-  /*list-style: none;*/
+  list-style: none;
   padding-left: 2em;
 }
 
 nav {
+  display: flex;
   margin: 1em 0 1em 0;
   
 }
@@ -157,22 +158,49 @@ nav {
   color: white;
 }
 
-.block.tip {
-  background: #e8f7e6;
-  border-top-color: #84c578;
-}
-
-.block.block.tip:before {
-  content: "Tip";
-}
-
-.block.note {
+.block.salle-reunion {
   background: #e6f3fb;
   border-top-color: #6bb1e0;
 }
 
-.block.block.note:before {
-  content: "Note";
+.block.block.salle-reunion:before {
+  content: "Salle de réunion";
+}
+
+.block.coworker-ponctuel {
+  background: #e6f3fb;
+  border-top-color: #6bb1e0;
+}
+
+.block.block.coworker-ponctuel:before {
+  content: "Coworker-ponctuel";
+}
+
+.block.coworker-mensuel {
+  background: #e6f3fb;
+  border-top-color: #6bb1e0;
+}
+
+.block.block.coworker-mensuel:before {
+  content: "Coworker mensuel";
+}
+
+.block.commun {
+  background: #e6f3fb;
+  border-top-color: #6bb1e0;
+}
+
+.block.block.commun:before {
+  content: "Salle commune";
+}
+
+.block.meetup {
+  background: #e6f3fb;
+  border-top-color: #6bb1e0;
+}
+
+.block.block.meetup:before {
+  content: "Meetup";
 }
 
 .block.block.historique:before {
@@ -245,12 +273,12 @@ section code {
 }
 
 section img {
-  max-width: 100%;
+  margin-left: 10em;
+  width: 10em;
+  height: 10em;
 }
 table{
-  /*margin-left: auto;
-  margin-right: auto;
-  margin-top: 2em;*/
+
   margin: 1em auto 1em auto;
   border-collapse: collapse;
   width: 50em;
@@ -258,5 +286,13 @@ table{
 }
 
 table ,th, td{
-border: solid 2px black;
+border: solid 1px black;
+}
+
+#navbar{
+  display: flex;
+}
+
+em{
+  font-size: 12px;
 }

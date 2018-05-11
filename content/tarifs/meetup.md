@@ -5,4 +5,7 @@ anchor: "meetup"
 weight: 50
 ---
 
-Kraiklyn is the captain of the Clear Air Turbulence.
+{{% block meetup %}}
+ 
+Vous organisez des meetups et vous cherchez un espace pour votre groupe ?Nous vous accueillons les soirs.[Presentez-nous](contact@coworkinmontpellier.org) votre groupe et vos besoins. 
+{{% /block %}}
