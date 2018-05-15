@@ -11,7 +11,7 @@ weight: 13
 |:--------------------------------:|:---------------------------------------:|
 |   Wifi/Bureaux/Paperboard        | Wifi/Bureaux/Paperboard/Grand écran HD  |
 |                                  |                                         |
-|               40 €               |              50 €                       |
+|               **40 €**           |              50 €                       |
 
 *Tarification à la ½ journée*
 

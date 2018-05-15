@@ -1,22 +1,18 @@
 {{ if .Pages }}
-    <li>
-        <a href="#{{ .Params.anchor }}">{{ .Title }}</a>
+
         
-                    <ul>
+                    <ul  id ="shortcuts" class="navbar-nav mr-auto">
                         {{ if .Sections }}
                             {{ range .Sections.ByWeight }}
                                 {{ partial "menu_page_list.html" . }}
                             {{ end }}
                         {{ end }}
                         {{ range .Pages.ByWeight }}
-                            <li><a href="#{{ .Params.anchor }}">{{ .Title }}</a></li>
+                            <li class="nav-item"><a href="#{{ .Params.anchor }}">{{ .Title }}</a></li>
                         {{ end }}
                     </ul>
-                </li>
-            {{ else }}
-                <li>
-                    <a href="#{{ .Params.anchor }}">{{ .Title }}</a>
-                </li>
+                
+
         
 {{ end }}
 

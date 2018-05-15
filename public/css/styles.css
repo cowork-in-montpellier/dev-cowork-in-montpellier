@@ -6,7 +6,8 @@
   display: grid;
   grid-template-columns: 1fr 1fr;
   grid-template-areas: "navbar navbar"
-  						"conten conten"; 
+                        "sidebar sidebar"
+  						        "conten conten"; 
 }
 .content{
 	grid-area: conten ;
