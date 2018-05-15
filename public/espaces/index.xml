@@ -12,30 +12,33 @@
     
     
     <item>
-      <title>Coworkers</title>
-      <link>/espaces/coworker/</link>
+      <title>Coworkers </title>
+      <link>/espaces/coworker-ponctuel/</link>
       <pubDate>Sun, 28 Jan 2018 21:48:10 +0100</pubDate>
       
-      <guid>/espaces/coworker/</guid>
-      <description>Cowork’in Montpellier propose 24 bureaux répartis entre 4 salles en libre accès sans réservation. Plusieurs solutions s’offrent à toi : du carnet de 10 tickets aux abonnements mensuels.</description>
-    </item>
-    
-    <item>
-      <title>Salles de réunion</title>
-      <link>/espaces/r%C3%A9union/</link>
-      <pubDate>Sun, 28 Jan 2018 21:48:10 +0100</pubDate>
-      
-      <guid>/espaces/r%C3%A9union/</guid>
-      <description></description>
+      <guid>/espaces/coworker-ponctuel/</guid>
+      <description>Cowork’in Montpellier propose 24 bureaux répartis entre 4 salles en libre accès sans réservation. Plusieurs solutions s’offrent à toi :
+   1 journée 10 journées Mid-time Full-time     Si tu ne fais que passer  12 € Si tu passe à l&amp;rsquo;occasion -valable 1 an -Utilisable comme 20 demi-journées 110 € 10 jours/mois 100€/mois* Si tu viens tous les jours pendant 1 mois Accés illimité 180€/mois    Tarification sans perfidie : tu as droit à tous les services disponibles sur place, quelle que soit la formule choisie.</description>
     </item>
     
     <item>
       <title>Parties communes</title>
-      <link>/espaces/commun/</link>
+      <link>/espaces/espace_commun/</link>
       <pubDate>Sun, 28 Jan 2018 21:48:10 +0100</pubDate>
       
-      <guid>/espaces/commun/</guid>
-      <description></description>
+      <guid>/espaces/espace_commun/</guid>
+      <description>Sur place :  Wifi Imprimante A4 Cuisine (café, thé, micro-onde, frigo &amp;hellip;) Cour extérieur Râteliers à vélos Espaces téléphone Détente et bonne humeur  Nous pensons que les gens sont responsables et capables de créer une société où la confiance fait l&amp;rsquo;ambiance. Tu peux demander les clés, te faire du café dans des tasses, utiliser l&amp;rsquo;imprimante sans quota. Tu peux apporter ton casse-croûte pour le midi, le mettre au réfrigérateur et le réchauffer au micro-ondes.</description>
+    </item>
+    
+    <item>
+      <title>Salles de réunion</title>
+      <link>/espaces/salle_r%C3%A9union/</link>
+      <pubDate>Sun, 28 Jan 2018 21:48:10 +0100</pubDate>
+      
+      <guid>/espaces/salle_r%C3%A9union/</guid>
+      <description>Location salle de réunion    Petite salle jusqu&amp;rsquo;a 6 personne Grande salle Plus de 6 personnes     Wifi/Bureaux/Paperboard Wifi/Bureaux/Paperboard/Grand écran HD       40 € 50 €    Tarification à la ½ journée
+La location de salle dépend de l&amp;rsquo;occupation des lieux et de la durée.
+Vous pouvez louer une salle pour des durées plus longues.Pour toute réservation, contactez-nous</description>
     </item>
     
   </channel>

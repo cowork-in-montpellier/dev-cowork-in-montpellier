@@ -176,13 +176,13 @@ nav {
   content: "Coworker-ponctuel";
 }
 
-.block.coworker-mensuel {
+.block.coworker-regulier {
   background: #e6f3fb;
   border-top-color: #6bb1e0;
 }
 
-.block.block.coworker-mensuel:before {
-  content: "Coworker mensuel";
+.block.block.coworker-regulier:before {
+  content: "Coworker régulier";
 }
 
 .block.commun {

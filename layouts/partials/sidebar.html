@@ -1,11 +1,6 @@
 <div class="sidebar sidebar-{{ .Site.Params.sidebarColor}}">
     <div class="navigation">	
-        <h1 class="site-title"><a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></h1>
-        {{ partial "logo.html" }}
-
-	
-
-
+        <a href="{{ .Site.BaseURL }}">{{ partial "logo.html" }}</a>
         <nav class="internal">
             {{ partial "menu.html" . }}
         </nav>

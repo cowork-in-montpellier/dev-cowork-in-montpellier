@@ -27,7 +27,7 @@ Si vous êtes intéressé, venez vous exprimer, venez nous dire quelle vision vo
 {{% block tableau %}}
 
 
-|   [Un bureau](#bureau)     |   [Coworker Irréguliers](#coworker) | [Coworker Réguliers](#coworker)   |
+|   [Un bureau](#bureau)     |   [Coworker ponctuel](#coworker-ponctuel) | [Coworker Réguliers](#coworker-regulier)   |
 |----------------------------|-------------------------------------|-----------------------------------|
 | [Salle de réunion](#salle) | [Meetup](#meetup)        		   | [Boire une biére](#biere)         |
 

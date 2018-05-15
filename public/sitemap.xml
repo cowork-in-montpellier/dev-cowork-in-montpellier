@@ -8,18 +8,23 @@
   </url>
   
   <url>
-    <loc>/espaces/coworker/</loc>
+    <loc>/espaces/coworker-ponctuel/</loc>
     <lastmod>2018-01-28T21:48:10+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/espaces/r%C3%A9union/</loc>
+    <loc>/espaces/espace_commun/</loc>
     <lastmod>2018-01-28T21:48:10+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/espaces/commun/</loc>
+    <loc>/espaces/salle_r%C3%A9union/</loc>
     <lastmod>2018-01-28T21:48:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tarifs/coworker-mensuel/</loc>
+    <lastmod>2018-01-28T21:55:52+01:00</lastmod>
   </url>
   
   <url>
@@ -28,17 +33,12 @@
   </url>
   
   <url>
-    <loc>/tarifs/bora/</loc>
+    <loc>/tarifs/bureau/</loc>
     <lastmod>2018-01-28T21:54:02+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/tarifs/balveda/</loc>
-    <lastmod>2018-01-28T21:55:52+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tarifs/kraiklyn/</loc>
+    <loc>/tarifs/meetup/</loc>
     <lastmod>2018-01-28T21:57:07+01:00</lastmod>
   </url>
   

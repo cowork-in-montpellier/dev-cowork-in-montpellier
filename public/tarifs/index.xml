@@ -12,30 +12,32 @@
     
     
     <item>
-      <title>Bora</title>
-      <link>/tarifs/bora/</link>
-      <pubDate>Sun, 28 Jan 2018 21:54:02 +0100</pubDate>
-      
-      <guid>/tarifs/bora/</guid>
-      <description>Bora Horza Gobuchul is a Changer and an operative of the Idiran Empire. Horza was one of a party of Changers allowed on Schar&amp;rsquo;s World, and for that reason is tasked by the Idirans with retrieving a Mind that had crashed to the planet. Horza is humanoid, but committed to the Idirans because he despises the Culture for its dependence on machines and what he perceives to be spiritual emptiness.</description>
-    </item>
-    
-    <item>
-      <title>Balveda</title>
-      <link>/tarifs/balveda/</link>
+      <title>Coworker régulier</title>
+      <link>/tarifs/coworker-mensuel/</link>
       <pubDate>Sun, 28 Jan 2018 21:55:52 +0100</pubDate>
       
-      <guid>/tarifs/balveda/</guid>
-      <description>Juboal-Rabaroansa Perosteck Alseyn Balveda dam T&amp;rsquo;seif, usually referred to as Perosteck Balveda, is an operative of the Culture assigned to track and apprehend Bora Horza Gobuchul. She works for the Special Circumstances branch of Contact, and despite being ambivalent about the methods they use, deeply believes in their objectives.</description>
+      <guid>/tarifs/coworker-mensuel/</guid>
+      <description>Juboal-Rabaroansa Perosteck Alseyn Balveda dam T&amp;rsquo;seif, usually referred to as Perosteck Balveda, is an operative of the Culture assigned to track and apprehend [Bora Horza Gobuchul](). She works for the Special Circumstances branch of Contact, and despite being ambivalent about the methods they use, deeply believes in their objectives.
+ </description>
     </item>
     
     <item>
-      <title>Kraiklyn</title>
-      <link>/tarifs/kraiklyn/</link>
+      <title>Bureau</title>
+      <link>/tarifs/bureau/</link>
+      <pubDate>Sun, 28 Jan 2018 21:54:02 +0100</pubDate>
+      
+      <guid>/tarifs/bureau/</guid>
+      <description>Un bureau pour bosser is a Changer and an operative of the Idiran Empire. Horza was one of a party of Changers allowed on Schar&amp;rsquo;s World, and for that reason is tasked by the Idirans with retrieving a Mind that had crashed to the planet. Horza is humanoid, but committed to the Idirans because he despises the Culture for its dependence on machines and what he perceives to be spiritual emptiness.</description>
+    </item>
+    
+    <item>
+      <title>Meetup</title>
+      <link>/tarifs/meetup/</link>
       <pubDate>Sun, 28 Jan 2018 21:57:07 +0100</pubDate>
       
-      <guid>/tarifs/kraiklyn/</guid>
-      <description>Kraiklyn is the captain of the Clear Air Turbulence.</description>
+      <guid>/tarifs/meetup/</guid>
+      <description>Vous organisez des meetups et vous cherchez un espace pour votre groupe ?Nous vous accueillons les soirs.Presentez-nous votre groupe et vos besoins.
+ </description>
     </item>
     
   </channel>
