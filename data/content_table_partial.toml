@@ -1,0 +1,15 @@
+coworker = [
+"ponctuel",
+"régulier",
+"salle de réunion",
+]
+explication = [
+"pour quelques heures",
+"au mois",
+"réservation selon projet"
+]
+tarif = [
+"10$",
+"20$",
+"50$",
+] 

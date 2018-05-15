@@ -1,0 +1,21 @@
+<table>
+	<thead>
+		<tr>
+		{{ range .coworker }}
+  			<th>{{ . }}</th>
+		{{ end }}
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+		{{ range .explication }}
+		  <td>{{ . }}</td>
+		{{ end }}
+		</tr>
+		<tr>
+		{{ range .tarif }}
+		  <td>{{ . }}</td>
+		{{ end }}
+		</tr>
+	</tbody>
+</table>
