@@ -1,20 +1,24 @@
-<table>
+<!-- les contenus du tableau 
+	situé dans data/
+	content_table_partial.toml -->
+
+<table class="table">
 	<thead>
 		<tr>
-		{{ range .coworker }}
-  			<th>{{ . }}</th>
+		{{ range .ponctuel }}
+  			<th>{{ .name }}</th> 			
 		{{ end }}
 		</tr>
 	</thead>
 	<tbody>
 		<tr>
-		{{ range .explication }}
-		  <td>{{ . }}</td>
+		{{ range .ponctuel }}
+		    <td>{{ .explication }}</td>
 		{{ end }}
 		</tr>
 		<tr>
-		{{ range .tarif }}
-		  <td>{{ . }}</td>
+		{{ range .ponctuel }}
+		    <td>{{ .tarif }}</td>
 		{{ end }}
 		</tr>
 	</tbody>

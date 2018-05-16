@@ -3,7 +3,9 @@ html, body {
   color: #363636;
   height: 100%;
 }
-
+table, th, td {
+    border: 1px solid black;
+}
 @media (min-width: 48em) {
   html {
     font-size: 16px;
@@ -31,12 +33,6 @@ html, body {
 }
 
 /* Sidebar */
-.sidebar .logo img {
-  margin: -1em;
-  height: auto;
-  max-width: 15vw;
-}
-
 .sidebar {
   overflow: auto;
   text-align: center;
@@ -46,6 +42,11 @@ html, body {
 ;
   display: flex;
   flex-direction: column;
+}
+.sidebar .logo img {
+  margin: -1em;
+  height: auto;
+  max-width: 15vw;
 }
 .sidebar.sidebar-default {
   background-color: #363636;
