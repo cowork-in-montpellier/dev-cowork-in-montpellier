@@ -8,3 +8,5 @@ weight: 11
 Cowork’in Montpellier propose 24 bureaux répartis entre 4 salles en libre accès sans réservation.
 Plusieurs solutions s’offrent à toi : 
 du carnet de 10 tickets aux abonnements mensuels.
+
+{{< table />}}

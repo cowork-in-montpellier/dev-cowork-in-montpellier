@@ -1,13 +1,7 @@
 {{ partial "head.html" . }}
 {{ partial "sidebar.html" . }}
-<div class="content">
-
-
-	{{ range $.Site.Data }}
-    {{ partial "table.html" . }}
-	{{ end }}
-	
-    {{ with .Sections }}
+<div class="content">	
+	    {{ with .Sections }}
         {{ range .ByWeight }}
             {{ partial "section_list.html" . }}
         {{ end }}

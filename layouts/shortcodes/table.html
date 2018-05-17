@@ -1,0 +1,7 @@
+<div class="table {{ .Get 0 }}">
+    {{ .Inner }}
+
+	{{ range $.Site.Data }}
+    {{ partial "table_ponctuel.html" . }}
+	{{ end }}
+</div>

@@ -2,13 +2,13 @@
  name = " Journée "
  explication = " Accés au Coworking pour une journée "
  tarif = " 12.5€ "
+ 
+ [[ ponctuel ]]
+ name = " la demie "
+ explication = " Accés au Coworking à la demmie journée "
+ tarif = " 6.5€ "
 
  [[ ponctuel ]]
  name = " 1 heure "
  explication = " Accés au Coworking pour une heure "
  tarif = " 2.5€ "
-
- [[ ponctuel ]]
- name = " la demie "
- explication = " Accés au Coworking à la demmie journée "
- tarif = " 6.5€ "
