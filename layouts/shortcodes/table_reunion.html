@@ -1,0 +1,32 @@
+<div class="table {{ .Get 0 }}">
+    {{ .Inner }}
+
+	{{ range $.Site.Data }}
+	<!-- les contenus du tableau 
+	situé dans data/
+	content_table_partial.toml -->
+
+<table class="table">
+	<thead>
+		<tr>
+		{{ range .reunion }}
+  			<th>{{ .name }}</th> 			
+		{{ end }}
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+		{{ range .reunion }}
+		    <td>{{ .explication }}</td>
+		{{ end }}
+		</tr>
+		<tr>
+		{{ range .reunion }}
+		    <td>{{ .tarif }}</td>
+		{{ end }}
+		</tr>
+	</tbody>
+</table>
+
+	{{ end }}
+</div>

@@ -7,6 +7,14 @@ weight: 10
 
 Tu es freelance, entrepreneur, salarié en travail, pété de thune…
 
-{{% block note %}}
-Consider Phlebas is Banks's first published science fiction novel set in the Culture, and takes its title from a line in T. S. Eliot's poem The Waste Land. A subsequent Culture novel, Look to Windward (2000), whose title comes from the previous line of the same poem, can be considered a loose follow-up.
+ 
+Cowork’in Montpellier propose 24 bureaux répartis entre 4 salles en libre accès sans réservation.
+Plusieurs solutions s’offrent à toi : 
+du carnet de 10 tickets aux abonnements mensuels.
+
+
+{{% block cowork %}}
+Un tas de gens normaux (codeur, œnologue, graphiste, agent immobilier, entomologiste, traducteur, musicien, commercial, illustrateur)
+Partageant des bureaux + une cuisine + quelques plantes + une cour ensoleillée et des apéros
 {{% /block %}}
+ 

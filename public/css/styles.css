@@ -178,13 +178,13 @@ nav {
   content: "Tip";
 }
 
-.block.note {
+.block.cowork {
   background: #e6f3fb;
   border-top-color: #6bb1e0;
 }
 
-.block.block.note:before {
-  content: "Note";
+.block.block.cowork:before {
+  content: "Le cowork’in , c’est :";
 }
 
 .block.info {

@@ -5,6 +5,7 @@ anchor: "asso"
 weight: 60
 ---
 
-Consider Phlebas, like most of Banks's early SF output, was a rewritten version of an earlier book, as he explained in a 1994 interview:
+Liberté, égalité, balance tes idées : dès l’origine, l’objectif a été de gérer ce projet par nous-même et de permettre aux coworkers (qui le souhaitent) de participer activement à la dynamique de l’espace. Rien de mieux que le statut associatif pour faire évoluer le lieu selon notre propre schéma.
 
->Phlebas was an old one too; it was written just after The Wasp Factory, in 1984. I've found that rewriting an old book took much more effort than writing one from scratch, but I had to go back to do right by these things. Now I can go on and start completely new stuff.
+
+>L'adhésion de 2 €/an n'est pas obligatoire pour occuper le lieu.
