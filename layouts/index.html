@@ -1,17 +1,12 @@
 {{ partial "head.html" . }}
-<!-- {{ partial "sidebar.html" . }} -->
 {{ partial "navbar.html" . }} 
 
 <div class="content">
-
-	<!-- {{ range $.Site.Data }}
-    	{{ partial "table.html" . }}
-	{{ end }} -->
-
     {{ with .Sections }}
         {{ range .ByWeight }}
             {{ partial "section_list.html" . }}
         {{ end }}
     {{ end }}
 </div>
+{{ partial "contact.html" . }}
 {{ partial "tail.html" . }}

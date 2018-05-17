@@ -182,6 +182,14 @@ nav {
   content: "Salle de réunion";
 }
 
+.block.bureau {
+  background: #e6f3fb;
+  border-top-color: #6bb1e0;
+}
+
+.block.block.bureau:before {
+  content: "Un bureau";
+}
 .block.coworker-ponctuel {
   background: #e6f3fb;
   border-top-color: #6bb1e0;
@@ -219,7 +227,7 @@ nav {
 }
 
 .block.block.historique:before {
-  content: "historique";
+  content: "Historique";
 }
 .block.historique {
   background: #e6f3fb;
@@ -244,7 +252,7 @@ nav {
 #table {
   background: #fbeded;
 }
-#table ,th{
+#table ,tr{
   text-align: center;
 }
 
@@ -308,6 +316,7 @@ table{
 
 table ,th, td{
 border: solid 1px black;
+
 }
 
 #navbar{

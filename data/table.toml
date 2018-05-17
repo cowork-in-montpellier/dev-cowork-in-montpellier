@@ -1,14 +1,60 @@
  [[ ponctuel ]]
+ name = " La petite heure (1h) "
+ explication = " Accés au Coworking pour une heure "
+ tarif = " 2.50€* "
+
+ [[ ponctuel ]]
+ name = " Le passage (2h)"
+ explication = " Accés au Coworking pour deux heures "
+ tarif = " 6.50€* " 
+ 
+
+ [[ ponctuel ]]
+ name = " La demie (4h)"
+ explication = " Accés au Coworking à la demie-journée "
+ tarif = " 6.50€* "  
+
+[[ ponctuel ]]
  name = " Journée "
  explication = " Accés au Coworking pour une journée "
- tarif = " 12.5€ "
+ tarif = " 12.50€* "
 
- [[ ponctuel ]]
- name = " 1 heure "
- explication = " Accés au Coworking pour une heure "
- tarif = " 2.5€ "
 
- [[ ponctuel ]]
- name = " la demie "
- explication = " Accés au Coworking à la demmie journée "
- tarif = " 6.5€ "  
+
+
+
+ [[ regulier ]]
+ name = " Mid-time "
+ explication = " 10 jours par mois "
+ tarif = " 100€/mois* "
+
+ [[ regulier ]]
+ name = " Full-time "
+ explication = " Accés illimité "
+ tarif = " 180€/mois* "
+
+ [[ regulier ]]
+ name = " Bureau fixe "
+ explication = " Accés illimité + bureau fixe "
+ tarif = " 230€/mois* " 
+
+
+
+
+ [[ ancre ]]
+ name = " Profils"
+ explication1 = " [Coworker Réguliers](#coworker-regulier)"
+ explication2 = "[Coworker ponctuel](#coworker-ponctuel)"
+
+ [[ ancre ]]
+ name = " Espaces "
+ explication1 = " [Un bureau](#bureau) "
+ explication2 = "[Salle de réunion](#salle)"
+ 
+
+ [[ ancre ]]
+ name = " Evenements "
+ explication1 = "[Meetup](#meetup)"
+ explication2 = "[Boire une biére](#biere)"
+ 
+

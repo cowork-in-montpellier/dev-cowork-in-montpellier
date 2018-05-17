@@ -2,7 +2,7 @@
 title: "Salles de réunion"
 date: 2018-01-28T21:48:10+01:00
 anchor: "salle"
-weight: 13
+weight: 20
 ---
 {{% block salle-reunion %}}
 ## Location salle de réunion
