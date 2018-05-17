@@ -1,0 +1,7 @@
+<div id="table {{ .Get 0 }}">
+    {{ .Inner }}
+
+	{{ range $.Site.Data }}
+    	{{ partial "table.html" . }}
+	{{ end }}
+</div>

@@ -241,6 +241,12 @@ nav {
 .block.block.info:before {
   content: "Info";
 }
+#table {
+  background: #fbeded;
+}
+#table ,th{
+  text-align: center;
+}
 
 .block.warn {
   background: #fbeded;
