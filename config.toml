@@ -11,11 +11,35 @@ sidebarColor = "blue"
 customCss = []
 
 [[menu.shortcuts]]
-name = "on Slack"
+nametitle = "on Slack"
+name = "images/slack.png"
+pre = "<img src ='"
+post = "'>"
 url = "https://coworkinmtp.slack.com"
 weight = 10
 
 [[menu.shortcuts]]
-name = "by Mail"
+title = "by Mail"
+name = "images/mail.jpeg"
+pre = "<img src ='"
+post = "'>"
 url = "mailto:contact@coworkinmontpellier.org"
 weight = 20
+
+[[menu.shortcuts]]
+title = "by Twitter"
+name = "images/twitter.png"
+pre = "<img src ='"
+post = "'>"
+url = "https://twitter.com/cowork_in_mtp?lang=fr"
+weight = 30
+
+[[menu.shortcuts]]
+title = "by Facebook"
+name = "images/facebook.png"
+pre = "<img src ='"
+post = "'>"
+url = "https://fr-fr.facebook.com/CoworkInMontpellier/"
+weight = 30
+
+

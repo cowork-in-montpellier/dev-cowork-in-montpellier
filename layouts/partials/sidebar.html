@@ -13,13 +13,13 @@
         <nav class="external">
             <div class="external-title">{{ .Site.Params.externalTitle }}</div>
             {{ with .Site.Menus.shortcuts }}
-            <ul id="shortcuts">
+            <div id="shortcuts">
                 {{ range sort . "Weight" }}
-                <li>
-                    <a href="{{.URL}}" target="_blank" rel="noopener">{{safeHTML .Name}}</a>
-                </li>
+                <span>
+                    <a href="{{.URL}}" target="_blank" rel="noopener">{{.Pre}}{{safeHTML .Name}}{{.Post}}</a>
+                </span>                
                 {{ end }}
-            </ul>
+            </div>
             {{ end }}
         </nav>
     </div>

@@ -11,13 +11,13 @@ Sceptique, dubitatif, enjoué ? La première journée est gratuite, viens tester
 
 
 
->### Coworker ponctuel ###
+>>>>>>### Coworker ponctuel ###
 
 
 {{< table_ponctuel />}}
 Tu viens un ou plusieurs jours, de manière non régulière 
 
->### Coworker régulier ###
+>>>>>>### Coworker régulier ###
 
 
 {{< table_regulier />}}

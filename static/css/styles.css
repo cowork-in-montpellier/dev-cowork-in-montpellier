@@ -63,8 +63,8 @@ table.table th {
 }
 .sidebar .logo img {
   margin: -1em;
-  height: auto;
-  max-width: 15vw;
+  height: 12rem;
+  max-width: auto;
 }
 .sidebar.sidebar-default {
   background-color: #363636;
@@ -93,6 +93,8 @@ table.table th {
 .sidebar.sidebar-orange {
   background-color: #DAA35C;
 }
+
+
 @media (min-width: 48em) {
   .sidebar {
     position: fixed;
@@ -151,6 +153,19 @@ nav {
 
 .sidebar nav.external {
   font-size: 80%;
+}
+
+#shortcuts {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+}
+
+#shortcuts img {
+  margin: 0.5em;
+  height: auto;
+  max-width: 2rem;
+  
 }
 
 /* Blocks */
