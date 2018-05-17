@@ -1,25 +1,32 @@
-<!-- les contenus du tableau 
+<div class="table {{ .Get 0 }}">
+    {{ .Inner }}
+
+	{{ range $.Site.Data }}
+	<!-- les contenus du tableau 
 	situé dans data/
 	content_table_partial.toml -->
 
 <table class="table">
 	<thead>
 		<tr>
-		{{ range .ponctuel }}
+		{{ range .regulier }}
   			<th>{{ .name }}</th> 			
 		{{ end }}
 		</tr>
 	</thead>
 	<tbody>
 		<tr>
-		{{ range .ponctuel }}
+		{{ range .regulier }}
 		    <td>{{ .explication }}</td>
 		{{ end }}
 		</tr>
 		<tr>
-		{{ range .ponctuel }}
+		{{ range .regulier }}
 		    <td>{{ .tarif }}</td>
 		{{ end }}
 		</tr>
 	</tbody>
 </table>
+
+	{{ end }}
+</div>

@@ -9,4 +9,6 @@ Cowork’in Montpellier propose 24 bureaux répartis entre 4 salles en libre acc
 Plusieurs solutions s’offrent à toi : 
 du carnet de 10 tickets aux abonnements mensuels.
 
-{{< table />}}
+{{< table_ponctuel />}}
+
+{{< table_regulier />}}

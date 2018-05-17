@@ -2,13 +2,37 @@
  name = " Journée "
  explication = " Accés au Coworking pour une journée "
  tarif = " 12.5€ "
- 
+
  [[ ponctuel ]]
  name = " la demie "
- explication = " Accés au Coworking à la demmie journée "
+ explication = " Accés au Coworking à la demie journée "
  tarif = " 6.5€ "
 
  [[ ponctuel ]]
  name = " 1 heure "
  explication = " Accés au Coworking pour une heure "
  tarif = " 2.5€ "
+
+ [[ ponctuel ]]
+ name = " 10 journées "
+ explication = "valable 1 an utilisable comme 20 demi-journées"
+ tarif = " 110€ "
+
+
+
+
+
+ [[ regulier ]]
+ name = " Mid-time "
+ explication = " Accés au Coworking pour 10 jours/mois "
+ tarif = " 100€ "
+
+ [[ regulier ]]
+ name = " Full-time "
+ explication = " Accès illimité tous les jours pendant 1 mois "
+ tarif = " 180€ "
+
+ [[ regulier ]]
+ name = " Bureau fixe "
+ explication = "  Accès illimité tous les jours et possibilité de laisser ton matos "
+ tarif = " 230€ "
