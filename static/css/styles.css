@@ -259,3 +259,13 @@ section code {
 section img {
   max-width: 100%;
 }
+
+#commun .content {
+  display: flex;
+}
+
+.image img {
+  margin: 2rem 1rem 0rem 1rem;
+  max-height: 10rem;
+  width: auto;
+}

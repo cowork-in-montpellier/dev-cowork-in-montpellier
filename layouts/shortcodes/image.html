@@ -1,0 +1,7 @@
+<div class="image">
+	{{ if .IsNamedParams }}
+		<img src="{{.Get "src" }}" alt="">
+	{{ else }}
+		<img src="{{.Get 0}}" alt="">
+	{{ end }}
+</div>
