@@ -17,4 +17,8 @@ du carnet de 10 tickets aux abonnements mensuels.
 Un tas de gens normaux (codeur, œnologue, graphiste, agent immobilier, entomologiste, traducteur, musicien, commercial, illustrateur)
 Partageant des bureaux + une cuisine + quelques plantes + une cour ensoleillée et des apéros
 {{% /block %}}
+
+{{< image src="images/Picture1.png" >}}
+{{< image src="images/Picture3.png" >}}
+
  

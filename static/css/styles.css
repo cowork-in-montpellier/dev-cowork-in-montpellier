@@ -26,13 +26,13 @@ table.table th {
 
 @media (min-width: 48em) {
   html {  
-    font-size: 16px;
+    font-size: 15px;
   }
 }
 
 @media (min-width: 58em) {
   html {
-    font-size: 20px;
+    font-size: 18px;
   }
 }
 
@@ -101,7 +101,7 @@ table.table th {
     top: 0;
     left: 0;
     bottom: 0;
-    width: 19rem;
+    width: 15rem;
     text-align: left;
   }
 }
@@ -132,7 +132,7 @@ table.table th {
 }
 
 nav {
-  margin: 1em 0 1em 0;
+  margin: 0.5em 0 0.5em 0;
 }
 
 .sidebar .navigation {
@@ -146,12 +146,13 @@ nav {
 }
 
 .sidebar .external-title {
-  margin-top: 2em;
   text-align: center;
   font-size: 120%;
 }
 
 .sidebar nav.external {
+  position: absolute;
+  bottom: 0.1em;
   font-size: 80%;
 }
 
@@ -222,11 +223,11 @@ nav {
 
 /* Section of the page */
 section.page {
-  margin-bottom: 3em;
+  margin-bottom: 3rem;
 }
 
 section.page h1 {
-  border-left: 3px solid #363636;
+  border-left: 2px solid #363636;
   padding-left: 0.5em;
   margin-bottom: 0;
 }
@@ -260,9 +261,12 @@ section img {
   max-width: 100%;
 }
 
-#commun .content {
+/*#commun .content {
   display: flex;
 }
+#espace .content {
+  display: flex;
+}*/
 
 .image img {
   margin: 2rem 1rem 0rem 1rem;

@@ -5,8 +5,6 @@ anchor: "commun"
 weight: 13
 ---
 
-
-
-{{< image src="images/Picture1.png" >}}
-{{< image src="images/Picture3.png" >}}
+{{< image src="images/Picture4.png" >}}
+{{< image src="images/Picture5.png" >}}
 
