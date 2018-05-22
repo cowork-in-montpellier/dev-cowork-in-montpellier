@@ -1,6 +1,6 @@
 html, body {
   font-family: "Open Sans", sans-serif;
-  color: #363636;
+  color: #1b372e;
   height: 100%;
 }
 table, {
@@ -261,15 +261,26 @@ section img {
   max-width: 100%;
 }
 
-/*#commun .content {
-  display: flex;
-}
-#espace .content {
-  display: flex;
-}*/
-
 .image img {
-  margin: 2rem 1rem 0rem 1rem;
+  margin: 0 2rem 0 2rem;
   max-height: 10rem;
   width: auto;
+}
+
+#espace table, td, tr, th{
+    border: 0px;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+#espace table thead {
+    background-color: #6bb1e0;
+    color: white;
+}
+#espace table td {
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+  background-color: #e6f3fb;
+}
+#espace table td {
+  min-width: 10vh;
 }
