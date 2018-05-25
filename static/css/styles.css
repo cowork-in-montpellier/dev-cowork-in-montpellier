@@ -3,6 +3,10 @@ html, body {
   color: #1b372e;
   height: 100%;
 }
+h3 {
+  text-align: center;
+}
+
 table, {
   width: 100%;
 }
@@ -104,6 +108,12 @@ table.table th {
     width: 15rem;
     text-align: left;
   }
+
+  .sidebar nav.external {
+    position: absolute;
+    margin-bottom: 0.1em;
+    font-size: 80%;
+  }
 }
 
 .site-title {
@@ -150,8 +160,10 @@ nav {
   font-size: 120%;
 }
 
-.sidebar nav.external {
-  position: absolute;
+.external {
+  margin-top: 1em;
+  margin-bottom: -1em;
+  position: relative;
   bottom: 0.1em;
   font-size: 80%;
 }
@@ -201,6 +213,7 @@ nav {
 
 .block.block.cowork:before {
   content: "Le cowork’in , c’est :";
+  font-weight: bold;
 }
 
 .block.info {
@@ -262,11 +275,12 @@ section img {
 }
 
 .image img {
+  position: relative;
+  
   margin: 0 2rem 0 2rem;
   max-height: 10rem;
   width: auto;
 }
-
 #espace table, td, tr, th{
     border: 0px;
     padding-left: 1rem;

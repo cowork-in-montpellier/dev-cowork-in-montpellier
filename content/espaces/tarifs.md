@@ -11,16 +11,15 @@ Sceptique, dubitatif, enjoué ? La première journée est gratuite, viens tester
 
 
 
->>>>>>>### Coworker ponctuel ###
+### Coworker ponctuel ###
 
-
-{{< table_ponctuel />}}
 Tu viens un ou plusieurs jours, de manière non régulière 
+{{< table_ponctuel />}}
 
->>>>>>>### Coworker régulier ###
 
+### Coworker régulier ###
 
-{{< table_regulier />}}
-Tu viens au moins 10 jours dans le mois
+Tu viens au moins 10 jours dans le mois{{< table_regulier />}}
+
 
 \* Tarification sans perfidie : tu as droit à tous les services disponibles sur place, quelle que soit la formule choisie. Nos forfaits au mois ne t'engagent qu’un mois.
